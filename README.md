@@ -14,5 +14,8 @@ This data is pulled from Yahoo Finance using the yfinance library, so make sure 
 This should give you a yearly seasonal which would be most popular, but if you would like to adjust it you can on line 16 of the Main.
 3. Run the main and watch as the charts are created and returns calculated.
 
+# Sample Output
+![ZC=F plot](https://user-images.githubusercontent.com/84938803/207391676-8f0fc2f7-d2ca-42e5-89f5-4ad30c4ff3a8.png)
+
 # Thank you
 Thank you for checking out my notebook, and I hope you find some use for my design.
